@@ -24,13 +24,61 @@ Este arquivo tem o objetivo de documentar minha jornada de aprendizado em **Pyth
 
 ## 📖 Livros
 
-1. **[Nome do Livro](#)**  
+1. **[Introdução à programação com Python](#)**  
+   - 📌 **Autor:** Nilo Ney Coutinho Menezes
+   - 📆 **Data de Início:** 12/FEV/2025  
+   - ✅ **Status:** *Em progresso*  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+2. **[Python e Django](#)**  
+   - 📌 **Autor:** Francisco Marcelo de Barros Maciel
+   - ✅ **Status:** *Não iniciado*  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+3. **[Curso Intensivo de Python](#)**  
+   - 📌 **Autor:** Eric Matthes  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
+   - 📜 **Anotações:** [Link para anotações](#)   
+
+2. **[Programador Autodidata](#)**  
+   - 📌 **Autor:** Cory Althoff  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+2. **[Outro Livro](#)**  
    - 📌 **Autor:** Nome do Autor  
    - 📆 **Data de Início:** DD/MM/AAAA  
    - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
    - 📜 **Anotações:** [Link para anotações](#)
 
 2. **[Outro Livro](#)**  
+   - 📌 **Autor:** Nome do Autor  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+2. **[Outro Livro](#)**  
+   - 📌 **Autor:** Nome do Autor  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+8. **[Outro Livro](#)**  
+   - 📌 **Autor:** Nome do Autor  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+9. **[Outro Livro](#)**  
+   - 📌 **Autor:** Nome do Autor  
+   - 📆 **Data de Início:** DD/MM/AAAA  
+   - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
+   - 📜 **Anotações:** [Link para anotações](#)
+
+10. **[Outro Livro](#)**  
    - 📌 **Autor:** Nome do Autor  
    - 📆 **Data de Início:** DD/MM/AAAA  
    - ✅ **Status:** *Não iniciado | Em progresso | Concluído*  
