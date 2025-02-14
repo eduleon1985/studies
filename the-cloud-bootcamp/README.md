@@ -49,5 +49,8 @@ O Bootcamp é organizado em diferentes módulos, abrangendo desde os fundamentos
 ## 📢 Contato e Suporte
 Tem dúvidas ou precisa de ajuda? Entre em contato conosco pela nossa comunidade privada ou pelo e-mail **suporte@thecloudbootcamp.com**.
 
+## ⛳ Objetivo
+Preparação para vaga de Cloud Architect.
+
 ---
 📌 **The Cloud Bootcamp** – Transformando sua carreira na nuvem! 🚀
