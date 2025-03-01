@@ -11,3 +11,4 @@ preco = float(input("Informe o preço: "))
 desconto = float(input("Informe o percentual de desconto: "))
 valor_com_desconto = preco - ((preco * desconto) / 100)
 print(f"O produto {produto} tem o preço original de $ {preco}, você ganhou um desconto de {desconto}% e o valor com desconto é de {valor_com_desconto}.")
+
