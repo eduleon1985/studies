@@ -3,6 +3,7 @@
 
 # EN (🇺🇸): 
 # Write a program that converts a temperature entered in ºC to ºF.
+
 celsius = float(input("Informe a temperatura em ºC: "))
 fahrenheit = ((9 * celsius)/5) + 32
 print("===")
