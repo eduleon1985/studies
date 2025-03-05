@@ -6,7 +6,7 @@
 
 a = int(input("Informe o valor de A: "))
 b = int(input("Informe o valor de B: "))
-c = int(input("Informe o valor de C: "))
+c = in12t(input("Informe o valor de C: "))
 
 maior = max(a, b, c)
 menor = min(a, b, c)
