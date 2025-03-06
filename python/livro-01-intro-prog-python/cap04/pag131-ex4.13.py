@@ -10,8 +10,6 @@
 # else:
 #   print("b > a")
 
-a = True
-b = True
 
 if a <= b:
     print("b > a")
