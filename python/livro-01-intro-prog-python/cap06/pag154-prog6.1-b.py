@@ -8,7 +8,7 @@
 # Develop a program that determines the arithmetic average.
 # This time, we will read the grades one by one.
 
-notas = [6, 5, 7, 8, 9]
+notas = [0, 0, 0, 0, 0]
 soma = 0
 x = 0
 while x < 5:
@@ -18,7 +18,7 @@ while x < 5:
 
 x = 0
 while x < 5:
-    print(f"Nota {x}: {notas[x]:6.2}")
+    print(f"Nota {x}: {notas[x]:10.2}")
     x += 1
 
 print(f"Média: {soma / x:5.2f}")
