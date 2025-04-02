@@ -1,9 +1,9 @@
 L = [7, 4, 3, 12, 8]
 
-fim = 5
+fim = 5 # Marca a quantidade de elementos na lista
 
 while fim > 1:
-    trocou = False
+    trocou = False # Utilizamos essa variável para indicar que não houve nenhuma troca
     x = 0
 
     while x < (fim - 1):
